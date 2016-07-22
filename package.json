@@ -1,0 +1,11 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "File upload to amazon s3",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jerome Sta. Maria",
+  "license": "ISC"
+}
