@@ -7,5 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jerome Sta. Maria",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "connect-multiparty": "^2.0.0",
+    "ejs": "^2.4.2",
+    "express": "^4.14.0",
+    "s3fs": "^2.4.8"
+  }
 }
